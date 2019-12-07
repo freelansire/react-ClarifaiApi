@@ -1,9 +1,9 @@
 # SmartBrain - v1
-#-REACT - POSTGRESQL -NODEjs -EXPRESS
+#-REACT - POSTGRESQL -NODEjs -EXPRESS-
 
 ##FRONT END
 1. Clone or download this repo
-2. Open FRONTend folder in Editor
+2. Open Frontend folder in Editor
 3. Run `npm install`
 4. Run `npm start` APP start at: http://localhost:3000/
 
