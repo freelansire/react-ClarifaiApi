@@ -15,7 +15,7 @@
 4. Run `npm start` API local endpoint: http://localhost:3001/
 5. You must add your own API key in the `controllers/image.js` found in the backend folder file to connect to Clarifai.
 
-You can grab Clarifai API key [here](https://www.clarifai.com/)
+You can grab Clarifai API key [here](https://www.clarifai.com/).
 
 ##DATABASE
 1. Include your PostgreSQL username, password, database and port in server.js.
