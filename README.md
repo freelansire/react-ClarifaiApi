@@ -8,7 +8,7 @@
 4. Run `npm start` APP start at: http://localhost:3000/
 
 ##BACK END
-1. Clone or download this repo
+1. Clone or download this repo.
 2. Open BACKend folder in editor
 3. To avoid conflicts in port, you can change port number at bottom of 'server.js' file from 3000 to 3001
 3. Run `npm install`
