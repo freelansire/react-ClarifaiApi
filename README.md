@@ -1,5 +1,5 @@
 # SmartBrain - v1
-#-REACT - POSTGRESQL -NODEjs -EXPRESS---
+#-REACT - POSTGRESQL -NODEjs -EXPRESS--
 
 ##FRONT END.
 1. Clone or download this repo..
