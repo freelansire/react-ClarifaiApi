@@ -1,5 +1,5 @@
 # SmartBrain - v1
-#-REACT - POSTGRESQL -NODEjs -EXPRESS---
+#-REACT - POSTGRESQL -NODEjs -EXPRESS-
 
 ##FRONT END..
 1. Clone or download this repo..
@@ -27,4 +27,3 @@ You can grab Clarifai API key [here](https://www.clarifai.com/)
 ![get in image](../master/img3.JPG)
 
 
-/
