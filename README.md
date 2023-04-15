@@ -1,7 +1,7 @@
 # SmartBrain - v1
 #-REACT - POSTGRESQL -NODEjs -EXPRESS-
 
-##FRONT END..
+##FRONT END.
 1. Clone or download this repo..
 2. Open Frontend folder in Editor..
 3. Run `npm install`
@@ -26,4 +26,4 @@ You can grab Clarifai API key [here](https://www.clarifai.com/)
 
 ![get in image](../master/img3.JPG)
 
-
+![get in image](../master/img3.JPG)
