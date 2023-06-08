@@ -10,7 +10,7 @@ const handleProfileGet = (req, res, db) => {
     })
     .catch(err => res.status(400).json('error getting user'))
 }
-
+// export module
 module.exports = {
   handleProfileGet
 }
