@@ -9,7 +9,7 @@ import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 import Rank from './components/Rank/Rank';
 import './App.css';
 
-// the background particles..
+{/* the background particles... */}
 const particlesOptions = {
   particles: {
     number: {
