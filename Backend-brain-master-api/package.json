@@ -15,7 +15,7 @@
     "cors": "^2.8.4",
     "express": "^4.16.2",
     "knex": "^2.4.0",
-    "pg": "^7.4.0"
+    "pg": "^8.11.1"
   },
   "devDependencies": {
     "nodemon": "^1.12.7"
