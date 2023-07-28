@@ -113,7 +113,7 @@ class App extends Component {
     }
     this.setState({route: route});
   }
-///component start
+////component start
   render() {
     const { isSignedIn, imageUrl, route, box } = this.state;
     return (
