@@ -17,7 +17,7 @@
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 
-##DATABASE
+###DATABASE
 ###DATABASE
 1. Include your PostgreSQL username, password, database and port in server.js.
 
