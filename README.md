@@ -19,7 +19,7 @@ You can grab Clarifai API key [here](https://www.clarifai.com/)
 
 ###DATABASE
 ###DATABASE
-1. Include your PostgreSQL username, password, database and port number in server.js.
+1. Include your PostgreSQL username, password, database and port number in server.js
 
 ![get in image](../master/img1.JPG)
 
