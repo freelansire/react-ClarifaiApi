@@ -1,5 +1,10 @@
 # SmartBrain - v1
-#-REACT - POSTGRESQL -NODEjs -EXPRESS----/
+#-REACT -REDIS -POSTGRESQL -NODEjs -EXPRESS----/
+
+-A load balancer using HAProxy to distribute requests across three processing nodes
+-Redis-based job queue system for managing concurrent image processing tasks
+-Worker nodes built with Python's multiprocessing library for parallel image processing
+-Kubernetes for container orchestration and automatic scaling based on queue length
 
 ##FRONT END.
 1. Clone or download this repo..
