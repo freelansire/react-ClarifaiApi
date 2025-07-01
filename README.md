@@ -7,7 +7,7 @@
 
 -Worker nodes built with Python's multiprocessing library for parallel image processing.
 
--Kubernetes for container orchestration and automatic scaling based on queue length..
+-Kubernetes for container orchestration and automatic scaling based on queue length.
 
 ##FRONT END.
 1. Clone or download this repo..
